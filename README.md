@@ -10,15 +10,10 @@
  <img width="100%" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- 🌱 Diving Deep into Django, Next.js, Flutter: Expanding my expertise providing the best software solution
-
-- ❓ Full-stack developer specializing in Django, FastAPI \ Next.js \ Python related technologies. Ask me anything!
-
-- ⚡ I love challenges and learning new technologies
-
-- 🇳🇴 I live in Norway
-
-<br/>
+- 💡 Exploring Django, Next.js, and Flutter – Constantly refining my skills to build cutting-edge software solutions.
+- 🛠 Full-Stack Developer specializing in Django, FastAPI, Next.js, and the Python ecosystem. Always open to discussing innovative solutions!
+- 🚀 Passionate About Challenges – Thriving in dynamic environments and embracing new technologies to stay ahead.
+- 📍 Based in Norway – Bringing global expertise to local and international projects.
 
 ## <div align="center">My Skill Set</div>
 
