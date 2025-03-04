@@ -78,8 +78,6 @@
 </a>  
 </div>
 
-<br/>  
-
 ## GitHub Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KozachenkoPavlo&show_icons=true&count_private=true&hide_border=true&theme=dark"/></div>
