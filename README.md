@@ -2,7 +2,13 @@
 
 <div align="center">
  <a href="https://linkedin.com/in/pavlo-kozachenko-112676263" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="width: 120px;" />
+  <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge alt=linkedin style="height: 30px;" />
+ </a>
+ <a href="https://leetcode.com/u/pasha22151521/" target="_blank">
+  <img src=https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge style="height: 30px;" />
+ </a>
+   <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=61573590554929" target="_blank">
+  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge alt=facebook style="height: 30px;" />
  </a>
 </div>
 
