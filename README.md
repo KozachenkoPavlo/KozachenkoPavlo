@@ -26,7 +26,7 @@
 
 ## <div align="center">My Skill Set</div>
 
-<table><tr><td valign="top" width="33%">
+<table width="100%"><tr><td valign="top" width="33%">
 
 ### Frontend
 
@@ -70,20 +70,4 @@
  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-## <div align="center">GitHub Stats</div>
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KozachenkoPavlo&show_icons=true&count_private=true&hide_border=true&theme=dark" />
-      </td>
-      <td width="40%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozachenkoPavlo&hide_border=true&layout=compact&theme=dark" />
-      </td>
-    </tr>
-  </table>
-</div>
+</td></tr></table>
