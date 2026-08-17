@@ -12,21 +12,23 @@
  </a>
 </div>
 
-- Backend developer working on high-load production systems, taking ownership from design through deployment. Core
-  toolset: Python (Django, FastAPI), PHP, REST and GraphQL APIs.
-- Comfortable across the surrounding infrastructure – Docker, Kubernetes, Redis, RabbitMQ, Elasticsearch, and relational
-  databases – with a focus on performance, reliability, and scalability.
-- Treat security as part of the backend job rather than an afterthought: authentication and access control, careful
-  handling of secrets and user data, input validation, and clear trust boundaries between services.
-- Use AI tooling as a daily part of the workflow – coding agents, MCP connections to the services and data I work with,
-  and steady tuning of context and prompts for better results – while staying deliberate about what those tools are
-  allowed to reach.
-- Vim user and open-source enthusiast. I prefer tools I can read, configure, and extend, and I follow the projects
-  behind the stack I depend on.
-- Currently going deeper into system-level fundamentals: search and indexing internals, messaging and caching semantics,
-  query performance, and algorithmic problem-solving.
-- Based in Norway, contributing to local and international products. Always open to a conversation about backend
-  architecture, scaling, and security.
+- **High-load backend systems**<br/>
+  Python (Django, FastAPI) and PHP, REST and GraphQL APIs, with ownership from design through deployment.
+- **The infrastructure around the application**<br/>
+  Docker, Kubernetes, Redis, RabbitMQ, Elasticsearch, and relational databases – tuned for performance, reliability,
+  and scalability.
+- **Security as part of the job, not an afterthought**<br/>
+  Authentication and access control, careful handling of secrets and user data, input validation, and clear trust
+  boundaries between services.
+- **AI tooling in the daily workflow**<br/>
+  Coding agents, MCP connections to the services and data I work with, and steady tuning of context and prompts –
+  with deliberate limits on what those tools can reach.
+- **Vim and open source**<br/>
+  I prefer tools I can read, configure, and extend, and I follow the projects behind the stack I depend on.
+- **Currently going deeper**<br/>
+  Search and indexing internals, messaging and caching semantics, query performance, and algorithmic problem-solving.
+- **Based in Norway**<br/>
+  Working on local and international products. Open to a conversation about backend architecture, scaling, and security.
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/pasha22151521?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
