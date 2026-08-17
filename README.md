@@ -78,10 +78,7 @@
 
 <img src="assets/icons/kubernetes.svg" alt="Kubernetes" height="50" width="50" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/icons/linux-dark.svg">
-  <img src="assets/icons/linux.svg" alt="Linux" height="50" width="50" />
-</picture>
+<img src="assets/icons/linux.svg" alt="Linux" height="50" width="50" />
 
 <img src="assets/icons/aws.svg" alt="AWS" height="50" width="50" />
 
