@@ -40,11 +40,17 @@
 
 <img src="assets/icons/python.svg" alt="Python" height="50" />
 
-<img src="assets/icons/django.svg" alt="Django" height="50" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/icons/django-dark.svg">
+  <img src="assets/icons/django.svg" alt="Django" height="50" />
+</picture>
 
 <img src="assets/icons/react.svg" alt="React" height="50" />
 
-<img src="assets/icons/php.svg" alt="PHP" height="50" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/icons/php-dark.svg">
+  <img src="assets/icons/php.svg" alt="PHP" height="50" />
+</picture>
 
 <img src="assets/icons/flutter.svg" alt="Flutter" height="50" />
 
@@ -70,7 +76,10 @@
 
 <img src="assets/icons/kubernetes.svg" alt="Kubernetes" height="50" width="50" />
 
-<img src="assets/icons/linux.svg" alt="Linux" height="50" width="50" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/icons/linux-dark.svg">
+  <img src="assets/icons/linux.svg" alt="Linux" height="50" width="50" />
+</picture>
 
 <img src="assets/icons/aws.svg" alt="AWS" height="50" width="50" />
 
