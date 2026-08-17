@@ -34,55 +34,45 @@
   <img src="https://leetcard.jacoblin.cool/pasha22151521?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
-## <div align="center">My Skill Set</div>
+## <div align="center">Skill Set</div>
 
-<table align="center" width="100%"><tr><td valign="top" width="33%" align="center">
+<div align="center">
 
-### Core
+**Languages &amp; Frameworks**
 
-<img src="assets/icons/python.svg" alt="Python" height="50" />
+<img src="assets/icons/python.svg" alt="" height="16" align="top" /> Python
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/django.svg" alt="" height="16" align="top" /> Django
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/php.svg" alt="" height="16" align="top" /> PHP
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/react.svg" alt="" height="16" align="top" /> React
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/flutter.svg" alt="" height="16" align="top" /> Flutter
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/icons/django-dark.svg">
-  <img src="assets/icons/django.svg" alt="Django" height="50" />
-</picture>
+**Data &amp; Messaging**
 
-<img src="assets/icons/react.svg" alt="React" height="50" />
+<img src="assets/icons/postgresql.svg" alt="" height="16" align="top" /> PostgreSQL
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/redis.svg" alt="" height="16" align="top" /> Redis
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/temporal.svg" alt="" height="16" align="top" /> Temporal
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/elasticsearch.svg" alt="" height="16" align="top" /> Elasticsearch
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/rabbitmq.svg" alt="" height="16" align="top" /> RabbitMQ
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/icons/php-dark.svg">
-  <img src="assets/icons/php.svg" alt="PHP" height="50" />
-</picture>
+**Infrastructure**
 
-<img src="assets/icons/flutter.svg" alt="Flutter" height="50" />
+<img src="assets/icons/docker.svg" alt="" height="16" align="top" /> Docker
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/kubernetes.svg" alt="" height="16" align="top" /> Kubernetes
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/linux.svg" alt="" height="16" align="top" /> Linux
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/aws.svg" alt="" height="16" align="top" /> AWS
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="assets/icons/nginx.svg" alt="" height="16" align="top" /> Nginx
 
-</td><td valign="top" width="33%" align="center">
-
-### Data &amp; Messaging
-
-<img src="assets/icons/postgresql.svg" alt="PostgreSQL" height="50" width="50" />
-
-<img src="assets/icons/redis.svg" alt="Redis" height="50" width="50" />
-
-<img src="assets/icons/temporal.svg" alt="Temporal" height="50" width="50"/>
-
-<img src="assets/icons/elasticsearch.svg" alt="Elasticsearch" height="50" width="50" />
-
-<img src="assets/icons/rabbitmq.svg" alt="RabbitMQ" height="50" width="50"/>
-
-</td><td valign="top" width="33%" align="center">
-
-### Infrastructure
-
-<img src="assets/icons/docker.svg" alt="Docker" height="50" width="50" />
-
-<img src="assets/icons/kubernetes.svg" alt="Kubernetes" height="50" width="50" />
-
-<img src="assets/icons/linux.svg" alt="Linux" height="50" width="50" />
-
-<img src="assets/icons/aws.svg" alt="AWS" height="50" width="50" />
-
-<img src="assets/icons/nginx.svg" alt="Nginx" height="50" width="50" />
-
-</td></tr></table>
+</div>
 
