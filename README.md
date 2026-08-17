@@ -40,39 +40,39 @@
 
 **Languages &amp; Frameworks**
 
-<img src="assets/icons/python.svg" alt="" height="20" align="middle" /> Python
+<img src="assets/icons/python.svg" alt="" height="20" align="top" /> Python
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/django.svg" alt="" height="20" align="middle" /> Django
+<img src="assets/icons/django.svg" alt="" height="20" align="top" /> Django
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/php.svg" alt="" height="20" align="middle" /> PHP
+<img src="assets/icons/php.svg" alt="" height="20" align="top" /> PHP
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/react.svg" alt="" height="20" align="middle" /> React
+<img src="assets/icons/react.svg" alt="" height="20" align="top" /> React
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/flutter.svg" alt="" height="20" align="middle" /> Flutter
+<img src="assets/icons/flutter.svg" alt="" height="20" align="top" /> Flutter
 
 **Data &amp; Messaging**
 
-<img src="assets/icons/postgresql.svg" alt="" height="20" align="middle" /> PostgreSQL
+<img src="assets/icons/postgresql.svg" alt="" height="20" align="top" /> PostgreSQL
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/redis.svg" alt="" height="20" align="middle" /> Redis
+<img src="assets/icons/redis.svg" alt="" height="20" align="top" /> Redis
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/temporal.svg" alt="" height="20" align="middle" /> Temporal
+<img src="assets/icons/temporal.svg" alt="" height="20" align="top" /> Temporal
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/elasticsearch.svg" alt="" height="20" align="middle" /> Elasticsearch
+<img src="assets/icons/elasticsearch.svg" alt="" height="20" align="top" /> Elasticsearch
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/rabbitmq.svg" alt="" height="20" align="middle" /> RabbitMQ
+<img src="assets/icons/rabbitmq.svg" alt="" height="20" align="top" /> RabbitMQ
 
 **Infrastructure**
 
-<img src="assets/icons/docker.svg" alt="" height="20" align="middle" /> Docker
+<img src="assets/icons/docker.svg" alt="" height="20" align="top" /> Docker
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/kubernetes.svg" alt="" height="20" align="middle" /> Kubernetes
+<img src="assets/icons/kubernetes.svg" alt="" height="20" align="top" /> Kubernetes
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/linux.svg" alt="" height="20" align="middle" /> Linux
+<img src="assets/icons/linux.svg" alt="" height="20" align="top" /> Linux
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/aws.svg" alt="" height="20" align="middle" /> AWS
+<img src="assets/icons/aws.svg" alt="" height="20" align="top" /> AWS
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="assets/icons/nginx.svg" alt="" height="20" align="middle" /> Nginx
+<img src="assets/icons/nginx.svg" alt="" height="20" align="top" /> Nginx
 
 </div>
 
